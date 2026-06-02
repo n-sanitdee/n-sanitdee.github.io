@@ -78,8 +78,9 @@ B.A. Linguistics — *First Class Honors* &nbsp;·&nbsp; GPA 3.84 / 4.00
 
 ## 🔬 Research Projects
 
-Selected from [Zenodo profile](https://zenodo.org/search?q=natchanun%20sanitdee&l=list&p=1&s=10&sort=bestmatch) — 26 entries spanning corpus linguistics, NLP, MT, and sociolinguistics.
+See full papers at [Zenodo profile](https://zenodo.org/search?q=natchanun%20sanitdee&l=list&p=1&s=10&sort=bestmatch) — 26 entries spanning corpus linguistics, NLP, MT, and sociolinguistics.
 
+- **2026** — [LannaBench](https://github.com/n-sanitdee/northern-thai-llm-site/tree/main) — ongoing project evaluating how well large language models understand the Northern Thai (Lanna) dialect
 - **2025** — Language Attitudes of Finnish Speakers in Helsinki Towards English and Swedish
 - **2025** — Network analysis of Twitter quotes during the 2020 US presidential debate
 - **2025** — Vocabulary development of Spanish-speaking children (Wordbank)
