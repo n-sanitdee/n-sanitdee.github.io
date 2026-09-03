@@ -74,6 +74,7 @@ B.A. Linguistics — *First Class Honors* &nbsp;·&nbsp; GPA 3.84 / 4.00
 
 ## 📚 Publications & Presentations
 
+- **In preparation** — *LannaBench: Evaluating Northern Thai Dialect Understanding in Large Language Models.* Manuscript in preparation.
 - **In preparation** — *Selective agency assignment in the long passive: a corpus-assisted study of Anglophone reporting on the Russo-Ukrainian War.* Journal article in preparation, developed from the M.A. thesis.
 - **Nov 2026** — *A Corpus-Based Analysis of Thai LGBTQ+ Colloquials through Construction Grammar.* Accepted for oral presentation at the 3rd International Conference on Southeast Asian Socio-Cultural Studies (ICSAS 2026), National Chengchi University, Taipei, Taiwan — 14–15 Nov 2026.
 - **May 2026** — *Thai LGBTQ+ Colloquials Through the Lens of Construction Grammar.* Presented at the 25th Graduate Student Conference in Sociology and Anthropology (SocAntNet#25), Mahidol University, 6–7 May 2026; published in the conference proceedings.
