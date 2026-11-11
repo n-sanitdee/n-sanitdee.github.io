@@ -1,6 +1,6 @@
 # Natchanun Sanitdee
 
-> Linguist · Digital Humanist · AI & LLM enthusiast — Faculty of Humanities, University of the Thai Chamber of Commerce. Research across corpus-based Construction Grammar, machine translation, and low-resource NLP; currently building LannaBench, a benchmark for Northern Thai (Lanna) dialect understanding in large language models.
+> Linguist · Digital Humanist · AI & LLM enthusiast — Faculty of Humanities, University of the Thai Chamber of Commerce. Research across corpus-based Construction Grammar, machine translation, and low-resource NLP; currently principal investigator of SaWatDiJao, a UTCC Seed Research Fund project building LannaBench, a benchmark for Northern Thai (Lanna) dialect understanding in large language models.
 
 ✉️ [natchanun_san@utcc.ac.th](mailto:natchanun_san@utcc.ac.th) &nbsp;·&nbsp; ✉️ [n.sanitdee@gmail.com](mailto:n.sanitdee@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/n-sanitdee](https://www.linkedin.com/in/n-sanitdee/) &nbsp;·&nbsp; 🐙 [github.com/n-sanitdee](https://github.com/n-sanitdee)
 
@@ -12,7 +12,10 @@
 
 ### Lecturer &nbsp;·&nbsp; **University of the Thai Chamber of Commerce** — Faculty of Humanities
 *Jul 2026 — Present*
-Teach business English at undergraduate level; principal investigator on a task-based study of students' use of generative AI in language learning.
+Teach business English at undergraduate level.
+- **Principal investigator, Student AI Project** — an ethics-approved, task-based study of how university students use and critically evaluate generative AI in English learning, with a data pipeline that keeps student identities separate from grading.
+- **Principal investigator, SaWatDiJao (LannaBench)** — UTCC Seed Research Fund project, approved Nov 2026.
+- **Chair, [World News & Views](https://n-sanitdee.github.io/world-news/)** — a student-led English news circle in the EPIC department, relaunched in a monthly format focused on translation and vocabulary.
 
 ### Language Expert &nbsp;·&nbsp; **Cognizant Solutions Technology** &nbsp;<sub>`Remote`</sub>
 *Oct 2024 — Jun 2025*
@@ -50,6 +53,12 @@ B.A. Linguistics — *First Class Honors* &nbsp;·&nbsp; GPA 3.84 / 4.00
 
 ---
 
+## 💰 Grants
+
+**Nov 2026** — *SaWatDiJao: Developing the LannaBench Dataset and a Diagnostic Evaluation Framework for Measuring Northern Thai Understanding in Large Language Models.* UTCC Seed Research Fund, principal investigator; 12-month project.
+
+---
+
 ## 🌍 Languages
 
 | Language | Proficiency |
@@ -75,16 +84,16 @@ B.A. Linguistics — *First Class Honors* &nbsp;·&nbsp; GPA 3.84 / 4.00
 ## 📚 Publications & Presentations
 
 - **In preparation** — *LannaBench: Evaluating Northern Thai Dialect Understanding in Large Language Models.* Manuscript in preparation.
-- **In preparation** — *Selective agency assignment in the long passive: a corpus-assisted study of Anglophone reporting on the Russo-Ukrainian War.* Journal article in preparation, developed from the M.A. thesis.
-- **Nov 2026** — *A Corpus-Based Analysis of Thai LGBTQ+ Colloquials through Construction Grammar.* Accepted for oral presentation at the 3rd International Conference on Southeast Asian Socio-Cultural Studies (ICSAS 2026), National Chengchi University, Taipei, Taiwan — 14–15 Nov 2026.
+- **In preparation** — *Passive voice and agency in media discourse on the Russo-Ukrainian War.* Journal article in preparation, developed from the M.A. thesis.
+- **Nov 2026** — *A Corpus-Based Analysis of Thai LGBTQ+ Colloquials through Construction Grammar.* Oral presentation at the 3rd International Conference on Southeast Asian Socio-Cultural Studies (ICSAS 2026), National Chengchi University, Taipei, Taiwan — 14 Nov 2026.
 - **May 2026** — *Thai LGBTQ+ Colloquials Through the Lens of Construction Grammar.* Presented at the 25th Graduate Student Conference in Sociology and Anthropology (SocAntNet#25), Mahidol University, 6–7 May 2026; published in the conference proceedings.
 
 ## 🔬 Research Projects
 
 See full papers at [Zenodo profile](https://zenodo.org/search?q=natchanun%20sanitdee&l=list&p=1&s=10&sort=bestmatch) — 26 entries spanning corpus linguistics, NLP, MT, and sociolinguistics.
 
-- **2026** — *AI-Assisted English Learning and Critical Evaluation of AI-Generated Information* — task-based study of university students' use of generative AI in language learning (UTCC, principal investigator)
-- **2026** — [LannaBench](https://github.com/n-sanitdee/northern-thai-llm-site/tree/main) — ongoing project evaluating how well large language models understand the Northern Thai (Lanna) dialect
+- **2026** — *AI-Assisted English Learning and Critical Evaluation of AI-Generated Information* — ethics-approved, task-based study of university students' use of generative AI in language learning (UTCC, principal investigator)
+- **2026** — [LannaBench](https://github.com/n-sanitdee/northern-thai-llm-site/tree/main) — ongoing project evaluating how well large language models understand the Northern Thai (Lanna) dialect; funded by the UTCC Seed Research Fund as SaWatDiJao (principal investigator)
 - **2026** — [Hiw Whee Concordancer](https://github.com/n-sanitdee/hiw-whee-concordancer) — open-source construction concordancer for retrieving constructional patterns from segmented Thai corpora
 - **2025** — Language Attitudes of Finnish Speakers in Helsinki Towards English and Swedish
 - **2025** — Network analysis of Twitter quotes during the 2020 US presidential debate
@@ -162,4 +171,4 @@ Yoga · tea appreciation · volleyball, badminton, table tennis, swimming · pho
 
 ---
 
-<sub>Built with care · last updated September 2026</sub>
+<sub>Built with care · last updated November 2026</sub>
